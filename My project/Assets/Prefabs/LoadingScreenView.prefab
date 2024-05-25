@@ -536,8 +536,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   viewRoot: {fileID: 0}
   screenTransition: {fileID: 0}
-  txtTest: {fileID: 0}
-  btnTest: {fileID: 0}
+  txtTest: {fileID: 8040729535710197217}
+  btnTest: {fileID: 314937565697748039}
 --- !u!224 &1392274016821314411 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6842756719095030102, guid: 538d628450fd0df4e8bb197299b25348, type: 3}

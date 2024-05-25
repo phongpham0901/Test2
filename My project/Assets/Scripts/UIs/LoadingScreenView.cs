@@ -29,6 +29,7 @@ public class LoadingScreenPresenter : BaseScreenPresenter<LoadingScreenView>
     protected override void OnViewReady()
     {
         base.OnViewReady();
+        
         this.OpenViewAsync().Forget();
         this.View.btnTest.onClick.AddListener(this.OnClick);
     }
